@@ -1,13 +1,5 @@
 # Fdb version 4
-["bibtex INFO1111 Self-Learning Template"] 1680262607 "INFO1111 Self-Learning Template.aux" "INFO1111 Self-Learning Template.bbl" "INFO1111 Self-Learning Template" 1680262608 0
-  "./main.bib" 1670480262 611 6c1802df179b8bd911e04bc3b38401ae ""
-  "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "INFO1111 Self-Learning Template.aux" 1680262608 3268 38bd152762f4a95bee6bff96064dff91 "pdflatex"
-  (generated)
-  "INFO1111 Self-Learning Template.bbl"
-  "INFO1111 Self-Learning Template.blg"
-  (rewritten before read)
-["pdflatex"] 1680262607 "INFO1111 Self-Learning Template.tex" "INFO1111 Self-Learning Template.pdf" "INFO1111 Self-Learning Template" 1680262608 0
+["pdflatex"] 1680266895 "INFO1111 Self-Learning Template.tex" "INFO1111 Self-Learning Template.pdf" "INFO1111 Self-Learning Template" 1680357004 2
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -20,7 +12,6 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm" 1136768653 3584 3c76ccb63eda935a68ba65ba9da29f1a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecti1000.tfm" 1136768653 3072 3bce340d4c075dffe6d4ec732b4c32fe ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecti1200.tfm" 1136768653 3072 8b5a64dc91775463bc95e2d818524028 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -33,14 +24,6 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb" 1215737283 145408 43d44302ca7d82d487f511f83e309505 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1215737283 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb" 1215737283 164227 3df942b4ff2124425d8fb1b6d3e01c7a ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb" 1215737283 138258 6525c253f16cededa14c7fd0da7f67b2 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1215737283 136101 f533469f523533d38317ab5729d00c8a ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb" 1215737283 186554 e8f0fa8ca05e038f257a06405232745f ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb" 1215737283 198221 ca5aa71411090ef358a6cc78b7458365 ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb" 1215737283 169201 9ebf99020dde51a5086e186761a34e8f ""
   "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
@@ -102,11 +85,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1680135204 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1680135154 7883480 1b320c61df40eadffa5bcff4c3cb7d02 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "INFO1111 Self-Learning Template.aux" 1680262608 3268 38bd152762f4a95bee6bff96064dff91 "pdflatex"
-  "INFO1111 Self-Learning Template.bbl" 1680262607 226 227537b54831697c948005f526d5ded3 "bibtex INFO1111 Self-Learning Template"
-  "INFO1111 Self-Learning Template.out" 1680262608 3293 d6558721b591636046e4e4fc48dc4384 "pdflatex"
-  "INFO1111 Self-Learning Template.tex" 1680262605 8890 364c65fecd9e0aa7489c9e3eb754909e ""
-  "INFO1111 Self-Learning Template.toc" 1680262608 1776 00318ce62317ac9212d5ed9080acd02f "pdflatex"
+  "INFO1111 Self-Learning Template.aux" 1680357004 627 e1132f17be3368fbbce04c62fded0d33 "pdflatex"
+  "INFO1111 Self-Learning Template.out" 1680266895 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "INFO1111 Self-Learning Template.tex" 1680266895 9866 14e4695d96ee2acdc8f2c2db8387da2a ""
+  "INFO1111 Self-Learning Template.toc" 1680266895 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "USyd.jpg" 1670559750 13791 97c7a0094ea9271a21ecfea36123a027 ""
   (generated)
   "INFO1111 Self-Learning Template.aux"

@@ -439,4 +439,33 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./USyd.jp
-g>] (./INFO1111 Self-Learning Te
+g>] (./INFO1111 Self-Learning Template.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+)
+\tf@toc=\write4
+\openout4 = `"INFO1111 Self-Learning Template.toc"'.
+
+ [1] [2{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts
+1.enc}]
+./INFO1111 Self-Learning Template.tex:98: You can't use `macro parameter charac
+ter #' in horizontal mode.
+l.98 ...torial for setting up visual studio for C#
+                                                   development
+? 
+./INFO1111 Self-Learning Template.tex:98: Emergency stop.
+l.98 
+     
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 11027 strings out of 476025
+ 179305 string characters out of 5790017
+ 1857388 words of memory out of 5000000
+ 31316 multiletter control sequences out of 15000+600000
+ 526128 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,8n,76p,388b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+./INFO1111 Self-Learning Template.tex:98:  ==> Fatal error occurred, no output 
+PDF file produced!
