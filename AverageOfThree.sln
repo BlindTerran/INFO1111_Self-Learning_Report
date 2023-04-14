@@ -1,25 +1,33 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1705.3
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankSpace", "BlankSpace\BlankSpace.csproj", "{EAC75FCE-8B45-4DBF-8AF0-2ADFC8940A5D}"
-EndProject
-Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EAC75FCE-8B45-4DBF-8AF0-2ADFC8940A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EAC75FCE-8B45-4DBF-8AF0-2ADFC8940A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EAC75FCE-8B45-4DBF-8AF0-2ADFC8940A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EAC75FCE-8B45-4DBF-8AF0-2ADFC8940A5D}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {24B87BB6-73CA-44B2-B6C5-4D3F85228BFD}
-	EndGlobalSection
-EndGlobal
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        Console.WriteLine("Enter a number:");
+        int num = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter a number:");
+        int num2 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter a number:");
+        int num3 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine(averageOfThree(num, num2, num3));
+    }
+
+    static int averageOfThree(int num1, int num2, int num3)
+    {
+        int[] numbers = new int[] { num1, num2, num3 };
+
+        int result = 0;
+
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            result += numbers[i];
+        }
+
+        return result / 3;
+    }
+}
